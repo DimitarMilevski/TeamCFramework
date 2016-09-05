@@ -1,13 +1,14 @@
 package SignUpForOffers;
 
 import Common.Base;
+import org.testng.annotations.Test;
 
 /**
  * Created by Zaqc on 8/31/2016.
  */
 public class Mobile extends Base {
 
-       // @Test
+        @Test
         public void signUpForMail(){
             clickByXpath(".//*[@id='promoArea']/ul/li[2]/a");
             clickByXpath(".//*[@id='content']/div[5]/div[2]/div[2]/div/a");

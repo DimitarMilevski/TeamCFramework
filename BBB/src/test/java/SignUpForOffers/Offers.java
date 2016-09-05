@@ -8,7 +8,7 @@ import org.testng.annotations.Test;
  */
 public class Offers extends Base {
 
-   // @Test
+    @Test
     public void Offers(){
         clickByXpath(".//*[@id='promoArea']/ul/li[2]/a");
         clickByCss("#txtSignupSpecialEmail");

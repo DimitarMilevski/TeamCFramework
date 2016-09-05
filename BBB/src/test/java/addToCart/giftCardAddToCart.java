@@ -9,7 +9,7 @@ import org.testng.annotations.Test;
  */
 public class giftCardAddToCart extends Base {
 
-    // @Test
+     @Test
     public void giftCAddToCart() throws InterruptedException{
 
         clickByXpath(".//*[@id='globalSearchForm']/div[1]/a");
