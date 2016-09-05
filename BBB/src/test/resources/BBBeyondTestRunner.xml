@@ -5,8 +5,8 @@
 <suite name="Bed Bath And Beyond " parallel="tests">
 
     <parameter name="useCloudEnv" value="true"/>
-    <parameter name="userName" value="Dimitar"/>
-    <parameter name="accessKey" value="ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQCLnGOMvRT6NI+rCDeX9BwSWsYbeOy3tTMcgUiGL5QGDr1YvRUPydFbL28wu95f7+zFP5SNVvwC5F27kn3H5/gZuw7FcCLXv3n9v0EWgf0EtP4KlMd6SdJcB1A4+W1c8YHoQesrvaD26VoJ+x+xzE2NiEUV3HB5lJ+Jbs7PjdSO4c9UjXiap0uzFA1MPz6OFHvmhs8FDXM2/UQyhGu87vh6PMgs40MCPGSDN5kiSKFLEQtfDjcCbYFb9vwVdRuQgWbnZeCtBkwH45dO7kjTivPxgQ25vdNxR02T6xXh/cVQ8/Z8VLn/lXrQhQdrJmaK3ccqMcVDvutevW+q037xnxgf"/>
+    <parameter name="userName" value="rahmanww"/>
+    <parameter name="accessKey" value="6f132866-de72-43fd-b49a-e6f81d26bfe3"/>
     <parameter name="os" value="windows"/>
     <parameter name="browserName" value="chrome"/>
     <parameter name="browserVersion" value="47.0.1"/>
